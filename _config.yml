@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://lunarscape.github.com
+title: lunarscape blog
+subtitle: Tutorials, code snippets, tips, rants and more...
+author: lunarscape
 simple_search: http://google.com/search
 description:
 
