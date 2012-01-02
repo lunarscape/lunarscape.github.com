@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://lunarscape.github.com/blog/2012/01/02/generic-first-post/</loc>
+        <lastmod>2012-01-02T23:19:21+00:00</lastmod>
+    </url>
+    <url>
         <loc>http://lunarscape.github.com/blog/archives/</loc>
-        <lastmod>2012-01-02T22:28:18+00:00</lastmod>
+        <lastmod>2012-01-02T23:19:21+00:00</lastmod>
     </url>
     <url>
         <loc>http://lunarscape.github.com/</loc>
-        <lastmod>2012-01-02T22:28:18+00:00</lastmod>
+        <lastmod>2012-01-02T23:19:21+00:00</lastmod>
     </url>
 </urlset>

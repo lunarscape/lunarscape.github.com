@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[lunarscape blog]]></title>
-  <link href="http://lunarscape.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Personal | lunarscape blog]]></title>
+  <link href="http://lunarscape.github.com/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://lunarscape.github.com/"/>
   <updated>2012-01-02T23:19:30+00:00</updated>
   <id>http://lunarscape.github.com/</id>
